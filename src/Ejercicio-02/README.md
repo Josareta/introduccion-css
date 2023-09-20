@@ -17,6 +17,7 @@ En este ejercicio, utilizamos reglas CSS para aplicar estilos a los elementos "h
     <h1>Título de ejemplo</h1>
     <div class="container">
       <p>Este es un párrafo dentro del contenedor.</p>
+    
     </div>
     <p class="blue-text">Este párrafo tiene la clase "blue-text".</p>
   </body>

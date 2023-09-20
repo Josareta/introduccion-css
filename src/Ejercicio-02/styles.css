@@ -1,0 +1,14 @@
+/* Estilos para los encabezados h1 */
+h1 {
+    color: red;
+  }
+  
+  /* Estilos para los párrafos dentro del contenedor con clase "container" */
+.container p {
+    color: rgb(63, 23, 151)
+  } h3{color: rgb(119, 203, 23)}
+  
+  /* Estilos para los párrafos con clase "blue-text" */
+  .blue-text {
+    color: green;
+  }

@@ -30,6 +30,7 @@ En este ejercicio, creamos un contenedor (div) y lo dividimos en una cuadrícula
     </div>
   </body>
 </html>
+
 ```
 
 ### Contenido CSS (styles.css):
